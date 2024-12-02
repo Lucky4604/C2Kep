@@ -8,10 +8,10 @@ pub struct Config {
 }
 
 pub const PRODUCTION: Config = Config { 
-    websocket_base: "wss://qa65.assetsense.com/ws/proto",
-    opcua_url: "opc.tcp://192.168.1.7:49320", 
-    username: "saikiran.o2", 
-    password: "HydeVil#71",
+    websocket_base: "",
+    opcua_url: "", 
+    username: "", 
+    password: "",
 };
 
 pub fn get_config() -> &'static Config { 
