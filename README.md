@@ -28,7 +28,7 @@ To get started with this project, you'll need to have Rust and Cargo installed o
 Clone the repository to your local machine using Git:
 
 ```bash
-git clone https://github.com/your-username/your-repository-name.git
+git clone https://github.com/Lucky4604/C2Kep.git
 ```
 
 ### Build and Run
@@ -45,7 +45,7 @@ Cargo handles the compilation process and fetches dependencies specified in `Car
 
 ### Dependencies
 
-If your project depends on any external crates (libraries), they'll be listed in `Cargo.toml`. Cargo will automatically fetch and build these dependencies during the build process.
+If the  project depends on any external crates (libraries), they'll be listed in `Cargo.toml`. Cargo will automatically fetch and build these dependencies during the build process.
 
 ## Usage
 
@@ -59,16 +59,7 @@ cargo run --example
 
 You can explain any command-line arguments or configuration options here if applicable.
 
-## Configuration
-
-If your project requires any configuration (e.g., config files like `config.js`), you can explain how to configure it here.
-
-For example:
-
-- You might need to modify `config.js` for your application's specific settings.
-- Or you might explain environment variables or other configuration files.
-
-Make sure to mention any `.gitignore` settings if there are local files (like `cargo.local`) that are excluded from version control.
+.
 
 ## Contributing
 
